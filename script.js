@@ -34,7 +34,7 @@ document.querySelector("#center").addEventListener(
     div.appendChild(img);
 
     document.body.appendChild(div);
-    // kuch der baad hat jana chahiye
+    
    gsap.to(img, {
     y:"6",
     ease:Power1,
